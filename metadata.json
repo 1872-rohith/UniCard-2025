@@ -1,0 +1,7 @@
+{
+  "name": "UniCard - Smart Campus System",
+  "description": "A unified smart card ecosystem for colleges integrating canteen, library, printing, and events into a single digital wallet.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
